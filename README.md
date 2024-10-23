@@ -13,3 +13,13 @@ Pickle File: Stores the trained model for efficient deployment and reusability.
 3.User-Friendly Design :- Provides a clear and easy-to-use experience for both healthcare professionals and patients.
 Technologies:
 
+Python-->
+1.Machine Learning Library (e.g., scikit-learn)
+2.Streamlit
+3.Pickle
+
+Keywords:
+diabetes prediction, machine learning, Streamlit, Python, healthcare, data science, healthcare app
+
+LIVE dIABETIC PREDICTION LINK --> 
+
