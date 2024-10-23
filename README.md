@@ -6,12 +6,12 @@ This web application leverages machine learning to predict the likelihood of dia
 
 Key Features:
 
-Machine Learning Model: Employs a robust machine learning algorithm to accurately predict diabetes risk.
+Machine Learning Model :- Employs a robust machine learning algorithm to accurately predict diabetes risk.
 Pickle File: Stores the trained model for efficient deployment and reusability.
 
-Streamlit Frontend: Offers an intuitive interface for data input and result visualization.
+Streamlit Frontend :- Offers an intuitive interface for data input and result visualization.
 
-User-Friendly Design: Provides a clear and easy-to-use experience for both healthcare professionals and patients.
+User-Friendly Design :- Provides a clear and easy-to-use experience for both healthcare professionals and patients.
 Technologies:
 
 Python-->
