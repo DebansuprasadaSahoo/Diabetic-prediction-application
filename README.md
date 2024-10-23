@@ -20,8 +20,8 @@ Python-->
 3.Pickle
 
 Usage:
-Install the required dependencies using pip install -r requirements.txt.
-Run the app using --> streamlit run app.py.   
+-Install the required dependencies using pip install -r requirements.txt.
+-the app using --> streamlit run app.py.   
 
 Keywords:
 diabetes prediction, machine learning, Streamlit, Python, healthcare, data science, healthcare app
