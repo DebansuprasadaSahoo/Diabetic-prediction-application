@@ -21,5 +21,5 @@ Python-->
 Keywords:
 diabetes prediction, machine learning, Streamlit, Python, healthcare, data science, healthcare app
 
-LIVE dIABETIC PREDICTION LINK --> https://wnur6iqffyvsc8korofkys.streamlit.app/
+LIVE DIABETIC PREDICTION LINK --> https://wnur6iqffyvsc8korofkys.streamlit.app/
 
